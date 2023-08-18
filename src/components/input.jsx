@@ -52,7 +52,7 @@ const Input = () => {
           />
         </div>
         <div className="flex flex-col  mt-6 ">
-          <label htmlFor=""> Parol </label>
+          <label htmlFor=""> Şifrə </label>
           <input
             className=" border border-gray-400  h-10 w-96  mt-5  outline-0 p-5 "
             type={show? "text" : "password"}
